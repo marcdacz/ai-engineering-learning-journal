@@ -14,7 +14,7 @@ I will also try to create LinkedIn posts to share my progress and insights. Foll
 
 ## 🗓 High-Level Weekly Plan
 
-### **Week 1 – Fast Foundations**
+### **Week 1 – Math Foundations**
 - Core math for ML: linear algebra, probability, statistics  
 - Intro to ML concepts: supervised & unsupervised learning  
 - Neural network intuition  
